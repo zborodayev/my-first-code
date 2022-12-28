@@ -1,5 +1,5 @@
 // basic arithmetic operations
-console.log('hi, it is my frist code in js! let see code!');
+console.log('hi, it is my frist code in js! let see it!');
 console.log('basic arithmetic operations');
 const w = 10;
 const h = 5;
