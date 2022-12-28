@@ -1,10 +1,8 @@
+const w = 10;
+const h = 5;
+const s = w * h;
+const nw = w - 4;
+const nw2 = w + 4;
+const d = nw / nw2;
+console.log(d);
 
-const whith = 10
-const height = 20
-const space =  whith * height
-console.log(`perimeter: ${space}`)
-const a = 10
-const b = 30
-const c = 40
-const d = a * b * c
-console.log(`square: ${d}`)
